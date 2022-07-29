@@ -1,6 +1,6 @@
 # Hello! MY name is Elysson Tanaka 👋
 
-- 🔭 I’m currently working on personal projects
+- 🔭 I’m currently working as a front-end developer
 - 🌱 I’m currently learning JavaScript, React and Sass
 - 💻 I'm available for work and interviews
 - 📫 How to reach me: by sending me an email or DM me on instagram
